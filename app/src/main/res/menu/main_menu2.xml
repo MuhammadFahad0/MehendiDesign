@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_back"
+            android:icon="@drawable/ic_whatshot_black_24dp"
+            android:title="Back Hand Designs" />
+
+        <item
+            android:id="@+id/nav_front"
+            android:icon="@drawable/ic_whatshot_black_24dp"
+            android:title="Front Hand Designs" />
+
+        <item
+            android:id="@+id/Nav_finger"
+            android:icon="@drawable/ic_whatshot_black_24dp"
+            android:title="Finger Designs" />
+
+        <item
+            android:id="@+id/nav_wedding"
+            android:icon="@drawable/ic_whatshot_black_24dp"
+            android:title="Wedding Designs" />
+        <item
+            android:id="@+id/nav_arm"
+            android:icon="@drawable/ic_whatshot_black_24dp"
+            android:title="Arm Designs" />
+        <item
+            android:id="@+id/nav_foot"
+            android:icon="@drawable/ic_whatshot_black_24dp"
+            android:title="Foot Designs" />
+    </group>
+</menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_share_black_24dp"
+            android:title="Share this App" />
+
+        <item
+            android:id="@+id/facebook"
+            android:icon="@drawable/facebook"
+            android:title="Like on Facebook" />
+
+        <item
+            android:id="@+id/supportus"
+            android:icon="@drawable/ic_star_border_black_24dp"
+            android:title="Support us" />
+
+        <item
+            android:id="@+id/policy"
+            android:icon="@drawable/privacy_24dp"
+            android:title="Privacy Policy" />
+
+        <item
+            android:id="@+id/exit"
+            android:icon="@drawable/ic_exit_to_app_black_24dp"
+            android:title="Exit" />
+    </group>
+</menu>
